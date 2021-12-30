@@ -11,3 +11,8 @@
 * Python
 * Django
 * SQL
+
+## Code Example:
+```
+print ('Hello world')
+```
